@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #3a2044;
+}
+h1,h2,p{
+    margin-left: 10px;
+}
+h2{
+    color: #f5cd6a;
+}
+p{
+    text-align: left;
+    color:whitesmoke;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+    margin: 10px;
+}
+.exp{
+color: #44ddf1;
+}
+.school{
+color: #44ddf1;
+}
